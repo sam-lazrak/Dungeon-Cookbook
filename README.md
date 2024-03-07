@@ -23,3 +23,6 @@
 > "_Nothing hard about it at all._"
 >
 > "_It's a thing I like doing._"
+>
+
+![Samuel Lazrak](https://github.com/sam-lazrak/Dungeon-Cookbook/assets/149752079/f4fe1546-e98a-471b-8ff8-09e05233c48c)
